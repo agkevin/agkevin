@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**agkevin/agkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kevin, a Staubli Field Applications Engineer based in the USA. 
+My main work is with 4 axis, 6 axis robots as well as AGVs. 
 
-Here are some ideas to get you started:
+Staubli 4 and 6 axis robots are programmed with Staubli programming language Val3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Staubli AGVs are programmed with Navitec navigation software.
+
+My main work software tools are:
+- SRS (Staubli Robotics Suite) for Val3 programming and simulations
+- Navithor Tools and Navithor Client for AGV programming
+
+Occasional softwares I use for work or hobbies
+- Solidworks for 3D mechanical design
+- Mu Editor for MicroPython
