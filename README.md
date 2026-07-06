@@ -9,12 +9,14 @@ My main work software tools are:
 - SRS (Staubli Robotics Suite) for Val3 programming and simulations
 - Navithor Tools and Navithor Client for AGV programming
 
-Occasional softwares I use for work or hobbies
+Occasional softwares I use for work or hobbies:
 - Solidworks for 3D mechanical design
 - Mu Editor for MicroPython
 - PhotonWorkshop for 3D resin print
 
 In my Gitbug page, you will find:
-- Code snips from Val3 programming
-- Field reports
-- Hobby projects
+- Code snips from Val3 programming (private)
+- Field reports (private)
+- Hobby projects (public)
+  
+  Please request access to view private repositories!
