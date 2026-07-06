@@ -14,9 +14,9 @@ Occasional softwares I use for work or hobbies:
 - Mu Editor for MicroPython
 - PhotonWorkshop for 3D resin print
 
-In my Gitbug page, you will find:
+In my Github page, you will find:
 - Code snips from Val3 programming (private)
 - Field reports (private)
 - Hobby projects (public)
-  
-  Please request access to view private repositories!
+
+Please request access to view private repositories!
