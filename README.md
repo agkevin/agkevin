@@ -3,8 +3,6 @@
 I'm Kevin, a Staubli Field Applications Engineer based in the USA. 
 My main work is with 4 axis, 6 axis robots as well as AGVs. 
 
-Staubli 4 and 6 axis robots are programmed with Staubli programming language Val3 and AGVs are programmed with Navithor Tools.
-
 I'm passionate about embedded hardware and robotics hardware!
 
 My main work software tools are:
