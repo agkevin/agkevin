@@ -15,8 +15,8 @@ Occasional softwares I use for work or hobbies:
 - PhotonWorkshop for 3D resin print
 
 In my Github page, you will find:
-- Code snips from Val3 programming (private)
-- Field reports (private)
+- Code snips from Val3 programming (public and private examples)
+- Field reports (public and private examples)
 - Hobby projects (public)
 
 Please request access to view private repositories!
