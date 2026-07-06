@@ -3,7 +3,7 @@
 I'm Kevin, a Staubli Field Applications Engineer based in the USA. 
 My main work is with 4 axis, 6 axis robots as well as AGVs. 
 
-I'm passionate about embedded hardware and robotics hardware!
+I'm passionate about embedded hardware, robotics hardware and helping customers!
 
 My main work software tools are:
 - SRS (Staubli Robotics Suite) for Val3 programming and simulations
@@ -11,7 +11,7 @@ My main work software tools are:
 
 Occasional softwares I use for work or hobbies:
 - Solidworks for 3D mechanical design
-- Mu Editor for MicroPython
+- MuEditor for MicroPython programming
 - PhotonWorkshop for 3D resin print
 
 In my Github page, you will find:
